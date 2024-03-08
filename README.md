@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/BejarL/four-card-feature-section.git)
-- Live Site URL: [Live site URL](https://bejarl.github.io/four-card-feature-section/)
+- Solution URL: [Solution URL](https://github.com/BejarL/testimonials-grid-section.git)
+- Live Site URL: [Live site URL](https://bejarl.github.io/testimonials-grid-section/)
 
 ## My process
 
